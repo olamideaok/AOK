@@ -1,0 +1,28 @@
+p{
+    font-family: "Bookman Old Style";
+}
+
+body {
+    background-image: url("images/mic.jpg");
+    background-color: #cccccc;
+    color: brown;
+    font-family: "Bookman Old Style";
+    }
+
+#maincontent {
+    left: 30%;
+    width: 40%;
+    text-align: center;
+    position: absolute;
+}
+
+a {
+    font-family: "Bookman Old Style";
+    color: brown;
+}
+
+header {
+    float: right;
+}
+
+html { overflow-y: scroll; overflow-x:hidden; }
